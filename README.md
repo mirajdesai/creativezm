@@ -30,13 +30,20 @@ The section” reach out to us and lets build something great together” decrea
 
 mobile view size
 
+LANDING HOME PAGE
+this is pretty important as this sis th page that users will se first.
+it looks excellent in desktop laptop size but whe you start decreasing the window size the text size for the title "creativzm" and the sub title " WEB - DESIGN - SOCIAL - BRANDING - ADVERTISING " are not consitent. Somtimes it's too small and sometimes its too big for the screen size.
+use your creative skills and your judgement  and make it adjust the size of text and styles so that it ooks nice on all sizes.  (you will have to adjudt it at mobile size and tablet size)
+
+
 ABOUT US SECTION
-about us section disappears, fix that.
+in the mobile view about us section disappears, fix that.
 in mobile view that section should have all four sections stacked on each other
 i.e in full view its two columns two rows, in mobile view it should be 1 column and 4 rows. each row should be atleast 1CM (with the icon and the title) with a little part of the picture in the background
 
  then we have to consider the circle in the middle the black we are your one stop digital agency
-I have an idan for that. instead of 4 rows make it 5 rows. so the row in the middle i.e the third row will be black and have the text we are your one stop digital agency. alter the font sizes and icon sizes so that it looks nice.
+I have an idea for that. instead of 4 rows make it 5 rows and one column  so logically to include the black circle (it will be a rectangle in mobile view) the row in the middle i.e the third row will be black and have the text we are your one stop digital agency. alter the font sizes and icon sizes so that it looks nice.
+ultimateley in mobile view the about section will be five reactangle stacked on top of each other. each the same size.
 
 SERVICES SECTION
-stack all of those 5 colums on top of each other, adjust text size and icon size so that it looks good
+stack all of those 6 colums on top of each other, adjust text size and icon size so that it looks good
