@@ -21,7 +21,7 @@ also notice the extra spacing above and below the ‘Services’ title and also 
 
 below that make the “branding and advertising” title parallel with the “social” title - its a little of no w.
 
-Below 700px (the five pieces of content should be stacked on top of each other)
+Below 700px screen width (the six pieces of content should be stacked on top of each other)
 
 
 The section” reach out to us and lets build something great together” decrease the size of that to  2/3rds of the length.
