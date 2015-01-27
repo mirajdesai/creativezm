@@ -1,7 +1,8 @@
 to do
 
+note: the site has a landing page which is the home page. and then then the other SECTIONS include the about section, the serivces section and then the contact section.
 
-in the navigation bar I want the ABOUT SERVICES and CONTACT section words to light up orange and remain orange depending on which page you are on. 
+in the navigation bar I want the ABOUT SERVICES and CONTACT  words to light up orange and remain orange depending on which page you are on. 
 at the moment it simply lights up orange as you hover on it.
 
 change the contact us section background to #F4F4F4
